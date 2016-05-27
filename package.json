@@ -1,0 +1,11 @@
+{
+    "name": "typescriptintro",
+    "version": "0.0.1",
+    "dependencies": {
+        "typescript": "*"
+    },
+    "scripts": {
+        "start" : "node dist/app.js",
+        "ts-watch": "tsc -w"
+    }
+}
